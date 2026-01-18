@@ -1,4 +1,4 @@
-**Documento modificato da SC - file di prova. Si è creato un nuovo bracnh di cui poi si fa il pull request.**
+**Documento modificato da SC - file di prova. Si è creato un nuovo branch di cui poi si fa il pull request.**
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/NL7Tzq2f)
